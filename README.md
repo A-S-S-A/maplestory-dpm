@@ -1,1 +1,1 @@
-# maplestorydpm
+# maplestory_dpm_calc
